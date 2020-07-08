@@ -7,3 +7,5 @@ spring:
 
 logging:
   path: /Users/pwd/workspace/dingpw/ms-web-initializr/z-log/configure
+  level:
+    root: DEBUG
